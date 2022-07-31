@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Herudin1998
+- 👀 I’m interested in ... AI and Web Development
+- 🌱 I’m currently learning ... PHP and Python
+- 📫 How to reach me ... Add my Telegram @astrovinz
