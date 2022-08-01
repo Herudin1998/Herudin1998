@@ -8,7 +8,7 @@ HTML, CSS, Javascript, and a little PHP
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://digitalmoonz.com/)
+[![Shop](https://img.shields.io/badge/shop-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://digitalmoonz.com/)
 [![instagram](https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinzkurniawan)
 
 ## Other Common Github Profile Sections
