@@ -1,5 +1,5 @@
 # 🚀 About Me:
-🧠 I'm currently learning PHP, Python, and NodeJS<br><br>💬 Ask me about anything<br><br>📫 Check my portofolio - vienze.com <br><br>⚡️ Fun fact - I really like deep research to find the core of the question.
+🧠 I'm currently learning PHP, Python, and NodeJS<br><br>💬 Ask me about anything<br><br>📫 Check my portofolio - ![Vienze.com](https://vienze.com/) <br><br>⚡️ Fun fact - I really like deep research to find the core of the question.
 
 
 ## 🌐 Socials:
